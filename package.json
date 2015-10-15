@@ -1,6 +1,6 @@
 {
   "name": "component-sybil-series-bars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Component to create D3 bar series",
   "author": "The Economist (http://economist.com)",
   "license": "MIT",
